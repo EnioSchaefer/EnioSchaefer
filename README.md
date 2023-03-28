@@ -22,7 +22,7 @@ Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack w
 ------------
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enioschaefer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enioschaefer&layout=compact)
 
 ![Enio's GitHub stats](https://github-readme-stats.vercel.app/api?username=enioschaefer&show_icons=true&theme=tokyonight)
 

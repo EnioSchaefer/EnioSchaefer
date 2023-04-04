@@ -9,7 +9,7 @@ Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack w
 ##### Curiosities:
 - I'm 20 years old
 - I was born on Santa Catarina - Brazil
-- I've being in love with the tech world since a kid
+- I've being in love with the tech world since I was a kid
 
 # 📚 My Stack:
 

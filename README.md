@@ -19,6 +19,8 @@ Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack w
 | <img  src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"  width="50"  height="50">  |  <img  src="https://camo.githubusercontent.com/0dd6bdb4365093f42545af5fafe3fc407df096b4a7dbe0ae377b3917dac5c195/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d69636f6e2e737667"  width="50"  height="50"> |  <img  src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667"  width="50"  height="50"> | <img  src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"  width="50"  height="50">  |
 |   | <img  src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67"  width="50"  height="50">  | <img  src="https://user-images.githubusercontent.com/89549102/228118976-2585f1f7-511c-44b2-adb6-5c70a5377a34.png"  width="50"  height="50">  |   |   |
 
+Most of the projects' READMEs are still in progress, sorry for the inconvenience!
+
 ------------
 
 

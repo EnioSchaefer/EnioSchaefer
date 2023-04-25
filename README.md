@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&fontColor=2A2B2E&height=225&animation=twinkling&section=header&text=>%20Hello!%20I'm%20Enio&fontSize=65&fontAlignY=40)
 
 ## 🔗 Get in Touch!
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enioschaefer/) [![email](https://img.shields.io/badge/email-2A2B2E?style=for-the-badge&logo=gmail&logoColor=red)](mailto:enioschaefer.dev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enioschaefer/) [![gmail](https://img.shields.io/badge/gmail-2A2B2E?style=for-the-badge&logo=gmail&logoColor=red)](mailto:enioschaefer.dev@gmail.com)
 
 ## 👋 About Me:
 Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. Along this one year studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects, and have also initiated a few personal projects that are still ongoing. I am excited to tackle new challenges and contribute to your team's success with my knowledge and skills.
@@ -19,7 +19,7 @@ Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack w
 | <img  src="https://camo.githubusercontent.com/288cace72126df58aaeaa75627898785885858d54b03cb15ea3353a515642204/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6e6f64656a732f6e6f64656a732d69636f6e2e737667"  width="50"  height="50">  |  <img  src="https://camo.githubusercontent.com/0dd6bdb4365093f42545af5fafe3fc407df096b4a7dbe0ae377b3917dac5c195/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d69636f6e2e737667"  width="50"  height="50"> |  <img  src="https://camo.githubusercontent.com/19ab6bd09ac44d51db909362f5b77c47ab5679fda118a0bb5bfccf72cfc2a0d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d7973716c2f6d7973716c2d617232312e737667"  width="50"  height="50"> | <img  src="https://camo.githubusercontent.com/ce0a32825268b09cd5e0fc7c2a09c587a708491427cb794cade8f1866f7284c6/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a6573746a73696f2f6a6573746a73696f2d69636f6e2e737667"  width="50"  height="50"> |
 | <img  src="https://camo.githubusercontent.com/aa85cea585880ae694b4fe8dde116d092b8907d6351c71fcd76f00f7586fad72/68747470733a2f2f74657374696e672d6c6962726172792e636f6d2f696d672f6f63746f7075732d313238783132382e706e67"  width="50"  height="50"> | <img  src="https://user-images.githubusercontent.com/89549102/228118976-2585f1f7-511c-44b2-adb6-5c70a5377a34.png"  width="50"  height="50"> | <img  src="https://camo.githubusercontent.com/51ab47b87f7b0b3dd0bf4e48ec5129ba7c5b5296e8e8b8c61d61a0018a753d3c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d617232312e737667"  width="50"  height="50"> |   |   |
 
-Most of the projects' READMEs are still in progress, sorry for the inconvenience!
+Some of the projects' READMEs are still in progress, sorry for the inconvenience!
 
 ------------
 

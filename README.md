@@ -7,7 +7,6 @@
 Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. Along this one year studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects, and have also initiated a few personal projects that are still ongoing. I am excited to tackle new challenges and contribute to your team's success with my knowledge and skills.
 
 ##### Curiosities:
-- I'm 20 years old
 - I was born in Santa Catarina - Brazil
 - I've being in love with the tech world since I was a kid
 

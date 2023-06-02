@@ -85,6 +85,24 @@ Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack w
           <img height="32px" src="https://github.com/EnioSchaefer/EnioSchaefer/assets/89549102/bb5270a9-3a1f-44d1-910a-41d4d1dc3c90">
         </td>
      </tr>
+     <tr valign="top">
+       <td width="80px" align="center">
+          <span><strong>Python</strong></span><br>
+         <img height="32px" src="https://github.com/EnioSchaefer/EnioSchaefer/assets/89549102/0bb8d84b-7f05-4fcf-bc05-a524556b1f33">
+       </td>
+       <td width="80px" align="center">
+<!--          <span><strong></strong></span><br> -->
+<!--          <img height="32px" src=""> -->
+       </td>
+       <td width="80px" align="center">
+<!--          <span><strong></strong></span><br> -->
+<!--          <img height="32px" src=""> -->
+        </td>
+        <td width="80px" align="center">
+<!--           <span><strong></strong></span><br> -->
+<!--           <img height="32px" src=""> -->
+        </td>
+      </tr>
     </tbody>
 </table>
 

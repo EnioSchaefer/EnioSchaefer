@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enioschaefer/) [![gmail](https://img.shields.io/badge/gmail-2A2B2E?style=for-the-badge&logo=gmail&logoColor=red)](mailto:enioschaefer.dev@gmail.com)
 
 ## 👋 About Me:
-Hello there! My name is Enio Sergio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. Along this one year studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects, and have also initiated a few personal projects that are still ongoing. I am excited to tackle new challenges and contribute to your team's success with my knowledge and skills.
+Hello there! My name is Enio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. Along this one year studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects, and have also initiated a few personal projects that are still ongoing. I am excited to tackle new challenges and contribute to your team's success with my knowledge and skills.
 
 ##### Curiosities:
 - I was born in Santa Catarina - Brazil

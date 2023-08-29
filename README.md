@@ -47,8 +47,6 @@ Hello there! My name is Enio Schaefer, and I am a passionate full-stack web deve
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br>
-
 ## 🖥️ My Work Setup 
 
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
@@ -56,7 +54,7 @@ Hello there! My name is Enio Schaefer, and I am a passionate full-stack web deve
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-#### Some of the projects' READMEs are still in progress, sorry for the inconvenience!
+### Some of the projects' READMEs are still in progress, sorry for the inconvenience!
 
 ------------
 

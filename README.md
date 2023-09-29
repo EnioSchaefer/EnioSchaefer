@@ -10,8 +10,8 @@
 Hello there! My name is Enio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. Along my time studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects, and have also initiated a few personal projects that are still ongoing. I am excited to tackle new challenges and contribute to the team's success with my knowledge and skills.
 
 ##### Curiosities:
-- I was born in Santa Catarina - Brazil
-- I've being in love with the tech world since I was a kid
+- I was born in Santa Catarina - Brazil 🇧🇷
+- I've fallen in love with the tech world back when I was still a kid and got my first Playstation 2 🎮
 
 # 📚 My Stack:
 

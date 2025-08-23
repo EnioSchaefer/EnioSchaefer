@@ -9,6 +9,8 @@
 ## 👋 About Me
 I am Enio Schaefer, a full-stack web developer with experience in PHP, JavaScript, TypeScript, Node.js, Laravel, Vue.js, React, and .NET. I am pursuing a bachelor's degree in Computer Science at Fundação Universidade Regional de Blumenau (FURB) and have completed multiple projects through Trybe and personal initiatives. I focus on building scalable and maintainable applications while continuously improving my technical expertise.
 
+Currently focusing on PHP and Vue.js in professional projects, while working with Java in academic studies.
+
 **Fun Facts:**
 - Born in Santa Catarina, Brazil 🇧🇷
 - Early tech enthusiast, inspired by gaming and technology

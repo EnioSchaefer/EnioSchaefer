@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/schaefer.enio_/)
 
 ## 👋 About Me:
-Hello there! My name is Enio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. I'm currently pursuing a bachelor's degree in Software Engineering at Estácio to futher improve my thecnical skills and knowledge. At my time studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects, and have also initiated a few personal projects that are still ongoing. I am excited to tackle new challenges and contribute to the team's success with my knowledge and skills.
+Hello there! My name is Enio Schaefer, and I am a passionate full-stack web developer looking for new opportunities to grow both personally and professionally. I'm currently pursuing a bachelor's degree in Computer Science at Fundação Universidade Regional de Blumenau (FURB) to futher improve my thecnical skills and knowledge. At my time studying at Trybe I have successfully completed several projects, all of which are available on my GitHub account. I've had the pleasure to participate on numerous projects and have also initiated a few personal ones that are still ongoing. I am always excited to tackle new challenges and contribute to any team's success with my knowledge and skills.
 
 ##### Curiosities:
 - I was born in Santa Catarina - Brazil 🇧🇷

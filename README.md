@@ -94,7 +94,6 @@ I'm open to discussing **full-stack engineering roles**, **backend specializatio
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/enioschaefer/)
 - 📧 [Email](mailto:enioschaefer.dev@gmail.com)
-- 🐦 [Twitter](https://twitter.com/EnioNtz)
 
 ---
 
